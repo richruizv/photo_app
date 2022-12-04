@@ -1,7 +1,10 @@
 # README
+A photo app created in ruby on rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: ruby 2.7.2
+* RoR version:  Rails 6.0.5.1
+* node version: v12.22.6
+* yarn version: 1.22.19
 
 Things you may want to cover:
 
