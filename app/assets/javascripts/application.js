@@ -7,4 +7,5 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
+//= require credit_card_form.js
 //= require_tree .
