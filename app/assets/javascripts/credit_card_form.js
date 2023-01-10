@@ -3,7 +3,6 @@ $(document).on('ready turbolinks:load', function() {
   var show_error, stripeResponseHandler, submitHandler;
 
   submitHandler = function (event) {
-    console.log('holi')
 
     var $form = $(event.target);
     $form.find("input[type=submit]").prop("disabled", true);
